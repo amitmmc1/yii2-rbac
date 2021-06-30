@@ -1,7 +1,7 @@
 {
   "name": "amitmmc1/yii2-rbac",
   "description": "RBAC management module for Yii2",
-  "keywords": ["yii2", "yii2-rbac", "rbac management", "dektrium", "rbac gui", "yii rbac", "rbac module"],
+  "keywords": ["yii2", "yii2-rbac", "rbac management", "amitmmc1", "rbac gui", "yii rbac", "rbac module"],
   "type": "yii2-extension",
   "license": "MIT",
   "support": {
@@ -13,6 +13,11 @@
       "name": "Dmitry Erofeev",
       "email": "dmeroff@gmail.com",
       "homepage": "http://dmeroff.ru"
+    },
+          {
+      "name": "Amit",
+      "email": "amitmmc1@gmail.com",
+      "homepage": "https://wifitics.com"
     }
   ],
   "minimum-stability": "dev",
